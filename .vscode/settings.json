@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Education_Tests.sln"
+    "dotnet.defaultSolution": "Education_1.sln"
 }
