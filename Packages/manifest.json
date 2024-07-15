@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.panacotagames.daily-tasks-submodule": "file:../Packages/Daily-tasks-submodule",
     "com.unity.collab-proxy": "2.4.3",
     "com.unity.feature.development": "1.0.2",
     "com.unity.timeline": "1.8.6",

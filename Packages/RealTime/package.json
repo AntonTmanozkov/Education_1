@@ -1,0 +1,16 @@
+{
+  "name": "com.panacotagames.realtime",
+  "version": "1.2.8",
+  "displayName": "Real time",
+  "description": "The package for work with real time",
+  "unity": "2023.1",
+  "dependencies": {
+    "com.panacotagames.unityextentions": "https://github.com/Dmitry-Pchelincev/unity-extentions.git",
+    "com.panacotagames.memorysavesystem": "https://github.com/Dmitry-Pchelincev/memory-save-system.git"
+  },
+  "author": {
+    "name": "PANACOTA games",
+    "email": "dp@panacotagames.com",
+    "url": ""
+  }
+}

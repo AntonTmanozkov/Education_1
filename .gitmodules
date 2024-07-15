@@ -1,0 +1,3 @@
+[submodule "Packages/Daily-tasks-submodule"]
+	path = Packages/Daily-tasks-submodule
+	url = git@github.com:PanacotaGames/Daily-tasks-submodule.git

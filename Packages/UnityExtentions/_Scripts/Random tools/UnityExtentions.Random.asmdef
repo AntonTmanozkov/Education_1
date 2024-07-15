@@ -1,0 +1,16 @@
+{
+    "name": "UnityExtentions.Random",
+    "rootNamespace": "UnityExtentions.Random",
+    "references": [
+        "GUID:6ed3a54a43d093e478914fa0be84b002"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

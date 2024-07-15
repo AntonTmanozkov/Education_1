@@ -1,0 +1,19 @@
+{
+    "name": "Memory.Editor.SavePresets",
+    "rootNamespace": "Memory.Editor.SavePresets",
+    "references": [
+        "GUID:aa9bdc64d56effd48bc84a8f7d8e3b3a",
+        "GUID:efd2c59bf6c300340911832fae804a5e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
