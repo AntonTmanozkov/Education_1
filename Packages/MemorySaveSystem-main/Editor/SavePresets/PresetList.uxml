@@ -1,0 +1,28 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/memory-save-system/Editor/SavePresets/PresetList.uss?fileID=7433441132597879392&amp;guid=5e51d4bb28a2ee148a7a04ca11fdfb59&amp;type=3#PresetList" />
+    <ui:VisualElement name="root" style="flex-grow: 1; flex-direction: row; justify-content: flex-start; align-self: auto;">
+        <ui:ScrollView scroll-deceleration-rate="0,135" elasticity="0,1" class="border-style" style="min-width: 150px;">
+            <ui:ListView name="save-preset-list" />
+            <ui:VisualElement name="buttons" style="flex-grow: 1; flex-direction: row-reverse; align-items: flex-end; justify-content: space-between; align-self: flex-end;">
+                <ui:Button text="Добавить" display-tooltip-when-elided="true" name="add-button" />
+                <ui:Button text="Удалить" display-tooltip-when-elided="true" name="remove-button" />
+            </ui:VisualElement>
+        </ui:ScrollView>
+        <ui:ScrollView scroll-deceleration-rate="0,135" elasticity="0,1" name="preset-info" class="border border-style" style="min-width: 550px;">
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: space-between; align-self: stretch; max-height: 20px;">
+                <ui:TextField picking-mode="Ignore" label="Имя" name="name-field" style="min-width: 350px; justify-content: flex-start; align-self: auto; width: 409px;" />
+                <ui:Button text="Переименовать" display-tooltip-when-elided="true" name="rename-button" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 1; align-self: flex-end; flex-direction: row;">
+                <ui:Button text="Использовать preset" display-tooltip-when-elided="true" name="apply-button" />
+                <ui:Button text="Перезаписать preset" display-tooltip-when-elided="true" name="load-current-button" />
+                <ui:Button text="Создрать копию" display-tooltip-when-elided="true" name="create-copy" />
+            </ui:VisualElement>
+            <ui:VisualElement name="Space" style="flex-grow: 1; height: 4px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;" />
+            <ui:VisualElement name="Separator" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0.35); height: 4px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;" />
+            <ui:VisualElement name="Space" style="flex-grow: 1; height: 4px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;" />
+            <ui:Label tabindex="-1" text="Текст сохранения" display-tooltip-when-elided="true" style="margin-bottom: 15px;" />
+            <ui:IMGUIContainer name="save-text" style="border-left-color: rgba(79, 79, 79, 0.31); border-right-color: rgba(79, 79, 79, 0.31); border-top-color: rgba(79, 79, 79, 0.31); border-bottom-color: rgba(79, 79, 79, 0.31);" />
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>

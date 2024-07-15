@@ -1,0 +1,24 @@
+{
+  "name": "com.panacotagames.memorysavesystem",
+  "version": "3.0.0",
+  "displayName": "Memory save system",
+  "description": "A simple save system by PANACOTA games.",
+  "unity": "2023.1",
+  "author": {
+    "name": "PANACOTA games",
+    "email": "dp@panacotagames.com",
+    "url": ""
+  },
+  "samples": [
+    {
+      "displayName": "Simple transform saver",
+      "description": "Contains sample with simple transform saver script",
+      "path": "Samples~/Transform saver"
+    },
+    {
+      "displayName": "File worker",
+      "description": "A simple script for reading and writing save files",
+      "path": "Samples~/File worker"
+    }
+  ]
+}

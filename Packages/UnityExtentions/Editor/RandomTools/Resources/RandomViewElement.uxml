@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="root" style="flex-grow: 1;">
+        <uie:PropertyField name="object-field" label="Value" />
+        <ui:Foldout text="Wight" value="false">
+            <uie:PropertyField name="wight" />
+            <uie:PropertyField name="wight-drop-offcet" label="Dropped" />
+            <uie:PropertyField name="wight-drop-other-offcet" label="Other dropped" />
+        </ui:Foldout>
+    </ui:VisualElement>
+</ui:UXML>
