@@ -1,0 +1,20 @@
+{
+    "name": "SOVa.EditorCsvTables",
+    "rootNamespace": "SOVa.CsvTables",
+    "references": [
+        "GUID:b03a0e3446dc9924cb6a83e7fce562a5",
+        "GUID:4d8f49e7e2f1b8d47a6468f67b246982",
+        "GUID:9c628f438d7f8874582535ea7a8bda19"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

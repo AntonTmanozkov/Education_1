@@ -1,0 +1,14 @@
+{
+  "name": "com.panacotagames.sova",
+  "version": "1.0.5",
+  "displayName": "SOVa",
+  "unity": "2023.1",
+  "dependencies": {
+    "com.panacotagames.memorysavesystem": "https://github.com/PanacotaGames/MemorySaveSystem.git"
+  },
+  "author": {
+    "name": "PANACOTA games",
+    "email": "dp@panacotagames.com",
+    "url": "https://github.com/Dmitry-Pchelincev/SOVa"
+  }
+}

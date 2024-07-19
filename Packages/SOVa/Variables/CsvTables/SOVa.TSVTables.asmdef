@@ -1,0 +1,18 @@
+{
+    "name": "SOVa.TSVTables",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4d8f49e7e2f1b8d47a6468f67b246982",
+        "GUID:b03a0e3446dc9924cb6a83e7fce562a5",
+        "GUID:5399fc6f7a8f87443ae9a21ddd6d3e3c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

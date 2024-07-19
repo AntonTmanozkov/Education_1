@@ -1,0 +1,17 @@
+{
+    "name": "SOVa",
+    "rootNamespace": "SOVa",
+    "references": [
+        "GUID:478a2357cc57436488a56e564b08d223",
+        "GUID:efd2c59bf6c300340911832fae804a5e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

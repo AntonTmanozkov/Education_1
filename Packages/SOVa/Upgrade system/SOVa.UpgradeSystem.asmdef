@@ -1,0 +1,22 @@
+{
+    "name": "SOVa.UpgradeSystem",
+    "rootNamespace": "SOVa.UpgradeSystem",
+    "references": [
+        "GUID:d525ad6bd40672747bde77962f1c401e",
+        "GUID:6ed3a54a43d093e478914fa0be84b002",
+        "GUID:4ac911090c9b72c40b1a1bb70dff2f87",
+        "GUID:b03a0e3446dc9924cb6a83e7fce562a5",
+        "GUID:4d8f49e7e2f1b8d47a6468f67b246982",
+        "GUID:85df20207a422a4488a473d995e0408b",
+        "GUID:5399fc6f7a8f87443ae9a21ddd6d3e3c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

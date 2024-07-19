@@ -1,0 +1,16 @@
+{
+    "name": "MemorySaveSystem.Samples.FileWorker",
+    "rootNamespace": "MemorySaveSystem.Samples.FileWorker",
+    "references": [
+        "GUID:efd2c59bf6c300340911832fae804a5e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

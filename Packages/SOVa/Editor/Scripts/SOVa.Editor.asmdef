@@ -1,0 +1,18 @@
+{
+    "name": "SOVa.Editor",
+    "rootNamespace": "SOVA.Editor",
+    "references": [
+        "GUID:b03a0e3446dc9924cb6a83e7fce562a5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

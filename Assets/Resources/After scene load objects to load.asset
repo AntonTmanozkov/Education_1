@@ -16,4 +16,6 @@ MonoBehaviour:
   _loadComplete:
     m_PersistentCalls:
       m_Calls: []
-  _objects: []
+  _objects:
+  - {fileID: 11400000, guid: 8a61fa385bbc83d4d8c6d5e4852e9ea4, type: 2}
+  - {fileID: 11400000, guid: 1e182f758675a5f488575843a29ba6ee, type: 2}
