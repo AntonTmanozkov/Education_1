@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.panacotagames.ads": {
+      "version": "https://github.com/PanacotaGames/Ads.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ab071ccfd8b902f35fd20fc9be40198ec9d78d14"
+    },
     "com.panacotagames.daily-tasks-submodule": {
       "version": "file:Daily-tasks-submodule",
       "depth": 0,
@@ -19,6 +26,14 @@
       "dependencies": {
         "com.panacotagames.unityextentions": "https://github.com/Dmitry-Pchelincev/unity-extentions.git",
         "com.panacotagames.memorysavesystem": "https://github.com/Dmitry-Pchelincev/memory-save-system.git"
+      }
+    },
+    "com.panacotagames.sova": {
+      "version": "file:SOVa",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.panacotagames.memorysavesystem": "https://github.com/PanacotaGames/MemorySaveSystem.git"
       }
     },
     "com.panacotagames.unityextentions": {
@@ -93,6 +108,23 @@
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.localization": {
+      "version": "1.4.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.addressables": "1.21.8",
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.performance.profile-analyzer": {
